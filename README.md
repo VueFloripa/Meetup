@@ -1,6 +1,6 @@
 ![meetup](https://user-images.githubusercontent.com/4838076/31346703-54db1322-acf0-11e7-866d-81341a12da93.jpg)
 
-### Segundo Meetup Floripa.js
+### Segundo Meetup VueFloripa
 
 Local: [Chaordic, Lagoa da Conceição](https://goo.gl/maps/GgAHjJKnqtN2)
 
