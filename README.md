@@ -1,4 +1,4 @@
-# Terceiro Meetup VueFloripa
+# [Terceiro Meetup VueFloripa](https://www.meetup.com/pt-BR/vuefloripa/events/248453728/)
 
 Local: [Comadre Cowork, Santa Mônica](https://goo.gl/maps/jSEFN5VngT42)
 
