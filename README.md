@@ -1,14 +1,12 @@
-![meetup](https://user-images.githubusercontent.com/4838076/31346703-54db1322-acf0-11e7-866d-81341a12da93.jpg)
+# [Terceiro Meetup VueFloripa](https://www.meetup.com/pt-BR/vuefloripa/events/248453728/)
 
-### Segundo Meetup VueFloripa
+Local: [Comadre Cowork, Santa Mônica](https://goo.gl/maps/jSEFN5VngT42)
 
-Local: [Chaordic, Lagoa da Conceição](https://goo.gl/maps/GgAHjJKnqtN2)
+Data: 05 de abril de 2018
 
-Data: 18 de outubro
+Horário: 19:00
 
-Horário: 19:30
-
-Callforpaper: [#1](https://github.com/VueFloripa/Meetup/issues/1)
+Callforpaper: [#3](https://github.com/VueFloripa/Meetup/issues/3)
 
 
 _____
